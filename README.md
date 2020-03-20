@@ -1,5 +1,6 @@
 # ceph-install
-install ceph in one host
+单节点安装ceph （install ceph in one host）
+安装ceph包的环节已省略
 
 # pg current state undersized+peered
 如果 副本数配置为3 
